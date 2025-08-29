@@ -1,0 +1,15 @@
+/* crie um estilo para table com borda preta, largura de 100% e colapsada */
+table {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+/* crie um estilo para th e td com borda preta, padding de 10px e texto alinhado ao centro */
+th, td {
+    border: 1px solid black;
+    padding: 10px;  
+    text-align: center;
+}
+/* troca a cor da fonte de th para azul */
+th {
+    color: blue;
+}
